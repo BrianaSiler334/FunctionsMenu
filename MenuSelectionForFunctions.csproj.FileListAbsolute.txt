@@ -1,0 +1,15 @@
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.csproj.AssemblyReference.cache
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.AssemblyInfoInputs.cache
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.AssemblyInfo.cs
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.csproj.CoreCompileInputs.cache
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\bin\Debug\net6.0\MenuSelectionForFunctions.exe
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\bin\Debug\net6.0\MenuSelectionForFunctions.deps.json
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\bin\Debug\net6.0\MenuSelectionForFunctions.runtimeconfig.json
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\bin\Debug\net6.0\MenuSelectionForFunctions.dll
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\bin\Debug\net6.0\MenuSelectionForFunctions.pdb
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.dll
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\refint\MenuSelectionForFunctions.dll
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.pdb
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\MenuSelectionForFunctions.genruntimeconfig.cache
+C:\Users\BSiler\source\repos\MenuSelectionForFunctions\obj\Debug\net6.0\ref\MenuSelectionForFunctions.dll
